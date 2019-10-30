@@ -1,3 +1,7 @@
+'''
+Logistic Regression Class
+'''
+
 class LogisticRegressionWithGD:
 
     def __init__(self, lr=0.01, num_iters=10000, fit_intercept=True, printLoss=False):
